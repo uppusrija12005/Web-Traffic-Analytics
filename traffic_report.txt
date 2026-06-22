@@ -1,0 +1,12 @@
+WEB TRAFFIC ANALYTICS REPORT
+
+Total Users: 10
+Average Page Views: 18.8
+Average Session Duration: 13.0
+
+Drop-Off Points:
+ExitPage
+Home        4
+Checkout    3
+Product     3
+Name: count, dtype: int64

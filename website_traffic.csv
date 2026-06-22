@@ -1,0 +1,11 @@
+UserID,PageViews,SessionDuration,PagesVisited,ExitPage
+101,15,12,5,Checkout
+102,25,18,8,Home
+103,8,4,2,Product
+104,30,22,10,Home
+105,10,5,3,Checkout
+106,20,15,6,Product
+107,5,2,1,Home
+108,28,20,9,Checkout
+109,12,7,4,Product
+110,35,25,12,Home
